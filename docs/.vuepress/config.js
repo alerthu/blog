@@ -21,6 +21,7 @@ module.exports = {
           nav: require('./navbar/zh'),
           sidebar: {
             '/vue/': require('./sidebar/vue'),
+            // '/flow/': require('./sidebar/flow')
           }
       },
       sidebarDepth: 2, // 侧边栏显示2级

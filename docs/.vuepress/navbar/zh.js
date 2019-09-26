@@ -8,5 +8,10 @@ module.exports = [
         link: "/vue/"
       }
     ]
+  },
+  {
+    text: "Flow",
+    ariaLabel: "Flow",
+    link: "/flow/"
   }
 ];
