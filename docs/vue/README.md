@@ -2,7 +2,7 @@
 
 目前分析的版本是 Vue.js 的最新版本 Vue.js 2.5.17-beta.0。
 
-本文是在[黄轶](https://www.imooc.com/t/3017249)老师讲解的电子书基础和视频[《Vue.js 源码揭秘》](http://coding.imooc.com/class/228.html)上，添加了个人注释和理解，方便个人查阅总结。
+本文是在[黄轶](https://www.imooc.com/t/3017249)讲解的电子书基础和视频[《Vue.js 源码揭秘》](http://coding.imooc.com/class/228.html)上，添加了个人注释和理解，方便个人查阅总结。
 
 ## 章节目录
 
