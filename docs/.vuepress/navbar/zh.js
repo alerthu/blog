@@ -13,5 +13,10 @@ module.exports = [
     text: "Flow",
     ariaLabel: "Flow",
     link: "/flow/"
+  },
+  {
+    text: "Markdown",
+    ariaLabel: "Markdown",
+    link: "/markdown/"
   }
 ];
