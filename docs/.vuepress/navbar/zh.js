@@ -15,6 +15,16 @@ module.exports = [
     link: "/flow/"
   },
   {
+    text: "Git",
+    ariaLabel: "Git",
+    items: [
+      {
+        text: "Mac切换多个 GitHub 账号",
+        link: "/git/"
+      }
+    ]
+  },
+  {
     text: "Markdown",
     ariaLabel: "Markdown",
     link: "/markdown/"
