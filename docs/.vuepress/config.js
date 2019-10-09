@@ -21,6 +21,7 @@ module.exports = {
           nav: require('./navbar/zh'),
           sidebar: {
             '/vue/': require('./sidebar/vue'),
+            '/standard/': require('./sidebar/standard'),
             // '/flow/': require('./sidebar/flow')
           }
       },

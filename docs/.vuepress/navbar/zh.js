@@ -1,5 +1,10 @@
 module.exports = [
   {
+    text: "编码规范",
+    ariaLabel: "编码规范",
+    link: "/standard/"
+  },
+  {
     text: "Vue",
     ariaLabel: "Vue",
     items: [
